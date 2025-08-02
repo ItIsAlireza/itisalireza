@@ -2,7 +2,7 @@
 
 I’m a full-stack developer passionate about building clean, scalable, and user-friendly apps.
 
-- 🧠 Interests: Flutter, Node.js, Python, React, AI
+- 🧠 Interests: Flutter, Node.js, React, AI
 - 📢 Sharing knowledge with <a href="https://github.com/AstroDevs-Team">@Astrodevs<a/> on YouTube & Telegram
 - 🌱 Learning every day, always improving
 
