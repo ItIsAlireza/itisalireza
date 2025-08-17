@@ -6,6 +6,21 @@ I’m a full-stack developer passionate about building clean, scalable, and user
 - 📢 Sharing knowledge with <a href="https://github.com/AstroDevs-Team">@Astrodevs<a/> on YouTube & Telegram
 - 🌱 Learning every day, always improving
 
+<hr>
+
+### 🧩 Docsy — Modular Flutter WYSIWYG Editor
+A Flutter-native, composable rich-text editor framework split into focused packages.
+- Core: [`docsy`](https://pub.dev/packages/docsy)
+- Toolbar: [`docsy_toolbar`](https://github.com/AstroDevs-Team/Docsy/tree/main/packages/docsy_toolbar)
+- HTML: [`docsy_html`](https://github.com/AstroDevs-Team/Docsy/tree/main/packages/docsy_html)
+- Markdown: [`docsy_markdown`](https://github.com/AstroDevs-Team/Docsy/tree/main/packages/docsy_markdown)
+- Demo: [`docsy_example`](https://github.com/AstroDevs-Team/Docsy/tree/main/packages/docsy_example)
+
+🔗 Code: https://github.com/AstroDevs-Team/Docsy  
+📦 Pub: https://pub.dev/packages/docsy
+
+<hr>
+
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=itisalireza&count_private=true&include_all_commits=trueshow_icons=true&theme=tokyonight" width="400">
 <br /><br />
