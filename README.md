@@ -22,9 +22,9 @@ A Flutter-native, composable rich-text editor framework split into focused packa
 <hr>
 
 <div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itisalireza&count_private=true&include_all_commits=trueshow_icons=true&theme=tokyonight" width="400">
+  <img src="https://github-readme-stats-beta-six-19.vercel.app/api?username=itisalireza&count_private=true&include_all_commits=trueshow_icons=true&theme=tokyonight" width="400">
 <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=itisAlireza&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-beta-six-19.vercel.app/api/wakatime?username=itisAlireza&layout=compact&theme=tokyonight"/>
 </div>
 
 <br /><br />
