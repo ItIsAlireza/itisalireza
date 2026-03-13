@@ -3,7 +3,7 @@
 I’m a full-stack developer passionate about building clean, scalable, and user-friendly apps.
 
 - 🧠 Interests: Flutter, Node.js, React, NET
-- 📢 Sharing knowledge with <a href="https://github.com/AstroDevs-Team">@Astrodevs<a/> on YouTube & Telegram
+- 📢 Sharing knowledge with <a href="https://github.com/AstroDevs-Team">@Astrodevs<a/>
 - 🌱 Learning every day, always improving
 
 <hr>
