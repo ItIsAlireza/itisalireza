@@ -1,53 +1,51 @@
-# 👋 Hey, I'm Alireza
+<p align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Alireza Shirzad — Full-stack engineer and content creator" />
+</p>
 
-I’m a full-stack developer passionate about building clean, scalable, and user-friendly apps.
+<p align="center">
+  <a href="https://github.com/ItIsAlireza">
+    <img src="https://img.shields.io/github/followers/ItIsAlireza?label=Follow&style=for-the-badge" alt="GitHub followers" />
+  </a>
+  <img src="https://img.shields.io/github/stars/ItIsAlireza?style=for-the-badge" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=ItIsAlireza&style=for-the-badge" alt="Profile views" />
+</p>
 
-- 🧠 Interests: Flutter, Node.js, React, NET
-- 📢 Sharing knowledge with <a href="https://github.com/AstroDevs-Team">@Astrodevs<a/>
-- 🌱 Learning every day, always improving
+## About
 
-<hr>
+I’m a full-stack engineer and content creator focused on building scalable, polished software across mobile, backend, and web.
 
-### 🧩 Docsy — Modular Flutter WYSIWYG Editor
+- Building products with **Flutter, Dart, .NET, Node.js, React, and TypeScript**
+- Co-building and sharing engineering knowledge through [AstroDevs](https://github.com/AstroDevs-Team)
+- Working on open-source tools, developer education, and production-grade applications
+
+## Featured Project
+
+### [Docsy — Modular Flutter WYSIWYG Editor](https://github.com/AstroDevs-Team/Docsy)
+
 A Flutter-native, composable rich-text editor framework split into focused packages.
-- Core: [`docsy`](https://pub.dev/packages/docsy)
-- Toolbar: [`docsy_toolbar`](https://github.com/AstroDevs-Team/Docsy/tree/main/packages/docsy_toolbar)
-- HTML: [`docsy_html`](https://github.com/AstroDevs-Team/Docsy/tree/main/packages/docsy_html)
-- Markdown: [`docsy_markdown`](https://github.com/AstroDevs-Team/Docsy/tree/main/packages/docsy_markdown)
-- Demo: [`docsy_example`](https://github.com/AstroDevs-Team/Docsy/tree/main/packages/docsy_example)
 
-🔗 Code: https://github.com/AstroDevs-Team/Docsy  
-📦 Pub: https://pub.dev/packages/docsy
+- [`docsy`](https://pub.dev/packages/docsy) — editor core
+- [`docsy_toolbar`](https://github.com/AstroDevs-Team/Docsy/tree/main/packages/docsy_toolbar) — modular toolbar
+- [`docsy_html`](https://github.com/AstroDevs-Team/Docsy/tree/main/packages/docsy_html) — HTML support
+- [`docsy_markdown`](https://github.com/AstroDevs-Team/Docsy/tree/main/packages/docsy_markdown) — Markdown support
+- [`docsy_example`](https://github.com/AstroDevs-Team/Docsy/tree/main/packages/docsy_example) — demo application
 
-<hr>
+## Stack
 
-<div style="text-align: center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItisAlireza&theme=algolia"/>
-<br /><br />
-  <img src="https://github-readme-stats-beta-six-19.vercel.app/api/wakatime?username=itisAlireza&layout=compact&theme=tokyonight"/>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,dotnet,cs,nodejs,ts,react,firebase,git,figma,postman" alt="Technology stack" />
+</p>
 
-<br /><br />
-![GitHub followers](https://img.shields.io/github/followers/itisalireza?label=Follow&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/itisalireza?style=for-the-badge)
-![Profile views](https://komarev.com/ghpvc/?username=itisalireza&style=for-the-badge)
+## Activity
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItIsAlireza&theme=algolia" alt="GitHub profile details" />
+</p>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&style=for-the-badge&logoColor=white)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white&style=for-the-badge&)
+<p align="center">
+  <img src="https://github-readme-stats-beta-six-19.vercel.app/api/wakatime?username=ItIsAlireza&layout=compact&theme=tokyonight" alt="WakaTime stats" />
+</p>
 
+## Connect
 
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-## 🚀 Let's Connect
-[LinkedIn](https://linkedin.com/in/alireza-shirzad) • [Telegram](https://t.me/astrodevs_community) • [Buy Me a Coffee](https://buymeacoffee.com/astrodevs)
+[LinkedIn](https://linkedin.com/in/alireza-shirzad) · [AstroDevs](https://github.com/AstroDevs-Team) · [Buy Me a Coffee](https://buymeacoffee.com/astrodevs)
